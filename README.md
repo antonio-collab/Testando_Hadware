@@ -1,6 +1,4 @@
-Aqui está um modelo de **README.md** que você pode usar para documentar o projeto:
 
----
 
 # 🛠️ Raspberry Pi Pico - FreeRTOS Hardware
 
